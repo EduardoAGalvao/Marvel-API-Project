@@ -1,0 +1,43 @@
+body{
+    background: url(img/shield_wallpaper.jpg);
+}
+
+.carousel-inner img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[value],
+input[text]{
+    font-family: 'lucida sans unicode';
+}
+
+.item p{
+    font-size: 18px;
+    font-family: 'roboto', 'verdana', 'sans serif';
+    color: #d1d1d1;
+    font-weight: bold;
+}
+
+.item h3{
+    text-align: center;
+    color: #d1d1d1;
+    font-family: 'lucida sans unicode';
+    font-size: 28px;
+}
+
+#search_box{
+    padding: 40px 0px 0px 100px;
+}
+
+#search_box h1{
+    color: #d1d1d1;
+    font-family: 'lucida sans unicode';
+    border-bottom: 4px solid #c47e15;
+    width: 60%;
+}
+
+#notFound{
+    width: 300px;
+    height: 450px;
+}
