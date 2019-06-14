@@ -6,3 +6,5 @@ In the input tag it's possible to write an initial name or letters to find chara
 As return, it shows the name, a thumbnail and the description of the character, all extracted from the Marvel API in the developer portal: https://developer.marvel.com/. 
 
 The exibition occurs in a carousel slider build with jQuery and Bootstrap classes.
+
+*Everything made with a lot of curiosity and programming passion* 
