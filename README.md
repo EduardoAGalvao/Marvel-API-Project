@@ -7,4 +7,10 @@ As return, it shows the name, a thumbnail and the description of the character, 
 
 The exibition occurs in a carousel slider build with jQuery and Bootstrap classes.
 
+<img src="./gif/exibicao.gif" width="900" height="450" alt="Exibition gif" title="Exibition gif"/>
+
+Version: 1.0
+
+Creation: 13/04/2019
+
 *Everything made with a lot of curiosity and programming passion* 
